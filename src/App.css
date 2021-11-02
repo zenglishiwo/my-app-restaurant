@@ -1,0 +1,23 @@
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse; 
+  width: 80%;
+}
+
+td,
+th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+.container {
+  display: flex; 
+  justify-content: flex-start;
+}
+
+.item {
+  margin-left: 60px;
+  width: 60%;
+}
+ 
